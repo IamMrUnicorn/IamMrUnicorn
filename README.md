@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/IamMrUnicorn?tab=repositories](https://github.com/IamMrUnicorn?tab=repositories)
 
-- 💬 Ask me about **anything programming related**
+- 💬 Ask me anything about **the projects I've worked on**
 
 - 📫 How to reach me **quintanajason4004@gmail.com**
 
