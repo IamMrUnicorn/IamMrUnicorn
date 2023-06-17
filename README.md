@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason Quintana</h1>
-<h3 align="center">Hi I'm a passionate Full Stack Developer</h3>
+<h3 align="center">I'm a passionate Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **TheRoundTable**
 
