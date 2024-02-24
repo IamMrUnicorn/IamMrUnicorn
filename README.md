@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TheRoundTable**
 
-- 🌱 I’m currently learning **Typescript, Next.js, Docker**
+- 🌱 I’m currently learning **Python & Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IamMrUnicorn?tab=repositories](https://github.com/IamMrUnicorn?tab=repositories)
 
